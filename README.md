@@ -4,7 +4,9 @@ This project analyzes profitability across products and regions for a coffee cha
 
 ## Contents
 -Full written report with findings and recommendations.
+
 -Interactive Tableau workbook with 9 visualizations.
+
 -The dataset used for analysis.
 
 ## Key Findings
