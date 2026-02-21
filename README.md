@@ -3,11 +3,11 @@
 This project analyzes profitability across products and regions for a coffee chain, identifying key drivers of losses and opportunities for operational improvements.
 
 ## Contents
--Full written report with findings and recommendations.
+-[Full written report](https://github.com/jonathanm005/Coffee-Chain-Profitability-Analysis/blob/main/MagerkoJonathan_FinalReport_MKTG385%20(1).pdf) with findings and recommendations.
 
--Interactive Tableau workbook with 9 visualizations.
+-[Interactive Tableau Workbook](https://github.com/jonathanm005/Coffee-Chain-Profitability-Analysis/blob/main/MagerkoJonathan_Week5Assignment_MKTG385.twbx) with 9 visualizations.
 
--The dataset used for analysis.
+-[The dataset](https://github.com/jonathanm005/Coffee-Chain-Profitability-Analysis/blob/main/Coffee%20Chain%20Data%20-%20Excel%20File.xlsx) used for analysis.
 
 ## Key Findings
 - Nevada identified as a major regional loss outlier.
